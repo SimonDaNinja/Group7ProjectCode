@@ -1159,12 +1159,12 @@ while True:
     #cv2.imshow('cone_map', yellowConeMap+blueConeMap)
     #cv2.imshow('cone_map_yellow', yellowConeMap)
     #cv2.imshow('cone_map_blue', blueConeMap)
-    cv2.imshow('full_color_map_stable', warpedImage)
+    #cv2.imshow('full_color_map_stable', warpedImage)
     #cv2.imshow('edges', cannyBlob)
     #cv2.imshow('blobs', img_blobs)
     #cv2.imshow('orangeConesRight',orangeConeMapRight+orangeConeMapLeft)
     #cv2.imshow('img', img)
-    cv2.waitKey(2)
+    #cv2.waitKey(2)
     """
     except:
         print("ABORTING SLOWLY")
